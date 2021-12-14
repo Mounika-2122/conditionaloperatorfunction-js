@@ -1,0 +1,1 @@
+(20<30) ? console.log(true) : console.log(false)
